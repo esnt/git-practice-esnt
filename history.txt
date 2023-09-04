@@ -1,0 +1,316 @@
+   68  git status
+   69  git pull
+   70  git status
+   71  git add .
+   72  git commit -m 'Add forest covertype data'
+   73  git push
+   85  git status
+   86  git add .
+   87  git commit -m 'Add employeedata.csv'
+   88  git push
+   89  git status
+   90  git add .
+   91  git commit -m 'Add a place for class data'
+   92  git push
+  121  git status
+  122  git add .
+  123  git commit -m 'Add Delays data'
+  124  git push
+  166  git status
+  167  git add .
+  168  git commit -m 'Add some text data'
+  169  git push
+  185  git status
+  186  git remote -v
+  187  git pull
+  188  git restore
+  189  git restore .
+  191  git status
+  192  git add .
+  193  git commit -m 'Plotly example'
+  194  git push
+  199  git clone git@github.com:kbmoore02/my386blog.git
+  244  git status
+  245  git add .
+  246  git commit -m 'Add gc descriptions data'
+  247  git push
+  251  git status
+  252  git add .
+  253  git commit -m 'Fix typo'
+  254  git push
+  258  git clone git@github.com:grantnielson/my386blog.git
+  265  git clone git@github.com:kbmoore02/my386blog.git
+  285  git status
+  286  git add .
+  287  git commit -m 'Add world bank data'
+  288  git push
+  313  git status
+  315  git remote -v
+  317  git status
+  318  git add .
+  319  git commit -m 'Update student pictures'
+  320  git push
+  321  git push -u origin main
+  322  git remote -v
+  325  git clone git@github.com:stat386-winter2023/stat386-winter2023.github.io.git
+  327  cd stat386-winter2023.github.io
+  331  git remote -v
+  338  git clone git@github.com:lazyprogrammer/machine_learning_examples.git
+  352  git add .
+  353  git commit -m 'Add data'
+  354  git push
+  372  git add .
+  373  git status
+  374  git commit -m 'Fix tweet data'
+  375  git push
+  417  git clone git@github.com:sterling-bradshaw/my386blog.git
+  418  git clone git@github.com:sterling-bradshaw/my386blog.git
+  426  git pull
+  433  git status
+  434  git restore .
+  435  git status
+  436  git status
+  444  git status
+  445  git add .
+  446  git commit -m 'Add earthquakes'
+  447  git push
+  449  git clone git@github.com:stat386-winter2023/hw-py-natetheknight75.git
+  483  git status
+  485  git init
+  486  git status
+  487  git add .
+  488  git commit -m 'initial commit'
+  508  git status
+  509  git add .
+  510  git status
+  511  git commit -m 'More updates to site'
+  512  git status
+  513  git branch figures
+  514  git branch
+  515  git switch figures
+  516  git status
+  517  git add . 
+  518  git commit -m 'Add dall-e info to about page'
+  519  git switch main
+  520  git branch
+  521  git merge figures
+  523  git status
+  524  git branch
+  525  git log --oneline
+  526  git add .
+  527  git commit -m 'add weekly assignments'
+  528  git status
+  529  git --version
+  530  git add .
+  531  git commit -m 'Update Lab 1'
+  532  git remote
+  533  git branch 
+  534  git branch -d figures
+  535  git branch
+  536  git remote add main git@github.com:esnt/stat386.git
+  537  git push -u origin main
+  538  git remote
+  539  git remote set-url origin git@github.com:esnt/stat386.git
+  540  git remote rm main
+  541  git remote
+  542  git remote add origin git@github.com:esnt/stat386.git
+  543  git remote -u origin main
+  544  git push -u origin main
+  545  git pull
+  574  git status
+  575  git add .
+  576  git commit -m 'Update assignments'
+  577  git push
+  612  git status
+  613  git add .
+  614  git commit -m 'update assignments'
+  615  git push
+  651  git --version
+  652  brew install git
+  653  git --version
+  687  git init
+  689  git status
+  690  git status
+  691  git add .
+  692  git status
+  693  git commit -m 'create new files'
+  694  git status
+  695  git log
+  696  git status
+  697  git add 'file_1.txt'
+  698  git status
+  699  git commit -m 'update file_1'
+  700  git status
+  701  git add .
+  702  git commit -m 'update file_2'
+  703  git log
+  704  git log
+  705  git log --oneline
+  706  git add .
+  707  git commit -m 'Create .gitignore'
+  708  git status
+  709  git status
+  710  git branch features
+  711  git switch features
+  712  git log --oneline
+  713  git branch
+  714  git add .
+  715  git commit -m 'add empty file'
+  716  git status
+  717  git log --oneline
+  718  git add .
+  719  git commit -m 'update new_feature file'
+  720  git log --oneline
+  721  git switch main
+  722  git add .
+  723  git commit -m 'Update file_1'
+  724  git merge features
+  725  git log
+  726  git log --oneline
+  727  git switch features
+  728  git add .
+  729  git status
+  730  git commit -m 'update new_features'
+  731  git switch
+  732  git switch main
+  733  git merge features
+  734  git add .
+  735  git commit -m 'No new features'
+  736  git switch features
+  737  git log --oneline
+  738  git status
+  739  git add .
+  740  git commit -m 'Update new_features again'
+  741  git switch main
+  742  git merge features
+  743  git merge features
+  744  git merge features
+  745  git log --oneline
+  746  git status
+  747  git log --oneline
+  748  git branch
+  749  git branch -d features
+  750  git remote -v
+  751  git branch -a
+  752  git remote -v
+  753  git branch -a
+  754  git branch -r
+  755  git add .
+  756  git commit -m 'update .gitignore'
+  757  git status
+  758  git status
+  763  git status
+  764  git push
+  765  git status
+  766  git commit -am 'Update gitignore'
+  767  git log --oneline
+  768  git status
+  769  git push
+  770  git status
+  771  git pull
+  772  git pull
+  773  git branch
+  775  git pull --all
+  776  git branch -a
+  777  git pull
+  778  git branch -a
+  779  git branch -d remotes/origin/branch-sophie
+  780  git branch -d origin/branch-sophie
+  781  git branch -d --remote origin/branch-sophie
+  782  git log --oneline
+  784  git log --oneline
+  785  git checkout 790298d
+  786  git status
+  787  git add .
+  788  git commit -m 'update assignments'
+  789  git checkout 790298d
+  790  git switch _
+  791  git switch -
+  792  git branch features
+  793  git switch features
+  794  git log
+  795  git status
+  796  git switch main
+  797  git status
+  798  git branch
+  799  git branch -d features
+  800  git status
+  801  git add .
+  802  git commit -m 'Update git lab'
+  803  git push
+  806  git clone git@github.com:esnt/stat386-blog-template.git
+  811  git clone git@github.com:esnt/reimagined-octo-giggle.git
+  827  rm -rf .git
+  829  rm .gitignore
+  831  history -0 | grep git
+  832  history 0 | grep git
+  833  git log --oneline
+  847  git status
+  848  git clone git@github.com:esnt/stat386-blog-theme.git
+  887  git status
+  888  git add .
+  889  git commit -m 'Update GitPages instructions'
+  890  git push
+  894  git status
+  895  git push
+  903  git status
+  904  git remote set-url origin git@github.com:s386Fall2023/s386Fall2023.github.io.git
+  905  git push -u origin main
+  906  git log --oneline
+  916  git clone git@github.com:stat386-winter2023/stat386-winter2023.github.io.git
+  955  git clone git@github.com:anyaevostinar/CS111-Solutions.git
+  980  git branch dev
+  981  git branch
+  998  git status
+  999  git branch
+ 1003  cd git_practice
+ 1004  git init
+ 1006  git status
+ 1009  git status
+ 1010  git add .
+ 1011  git status
+ 1012  git commit -m 'create new files'
+ 1013  git status
+ 1014  git log
+ 1015  git status
+ 1016  git add file_1.txt
+ 1017  git status
+ 1018  git commit -m 'update file1'
+ 1019  git add .
+ 1020  git commit -m 'update file 2'
+ 1021  git log
+ 1022  git add .
+ 1023  git commit -m 'create readme'
+ 1024  git add .
+ 1025  git commit -m 'create .gitignore'
+ 1026  git log
+ 1027  git status
+ 1028  git branch features
+ 1029  git switch features
+ 1030  git log --oneline
+ 1032  git add .
+ 1033  git commit -m 'update features'
+ 1034  git switch main
+ 1035  git status
+ 1036  git add .
+ 1037  git commit -m 'update file1'
+ 1038  git merge features
+ 1039  git log
+ 1040  git log --oneline
+ 1041  git status
+ 1042  git add .
+ 1043  git commit -m 'update new_features'
+ 1044  git switch features
+ 1045  git status
+ 1046  git add .
+ 1047  git commit -m 'update features file on features branch'
+ 1048  git switch main
+ 1049  git merge features
+ 1050  git merge features
+ 1051  git log --oneline
+ 1052  git branch
+ 1053  git branch -d features
+ 1054  git branch
+ 1055  git remote add origin git@github.com:esnt/git-practice-esnt.git
+ 1056  git push -u origin main
+ 1057  git log --oneline > gitlog.txt
